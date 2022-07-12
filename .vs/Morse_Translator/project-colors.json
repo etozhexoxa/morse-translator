@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4e7ed084-32dc-4ebf-8aa0-b09689888c90": {
+      "ProjectGuid": "4e7ed084-32dc-4ebf-8aa0-b09689888c90",
+      "DisplayName": "Morse_Translator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
